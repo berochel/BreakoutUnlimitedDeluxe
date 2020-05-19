@@ -7,4 +7,4 @@ This project is a task for *PROZ* classes in EITI PW. Aims for:
 * Making a nice menu with options in the beginning (and which i failed miserably on)
 
 To play, go to /out/artifacts/BreakoutUnlimitedDeluxe_jar/BreakoutUnlimitedDeluxe.jar;
-To look up the code source, go to /src.
+To look up the code source or unit tests, go to /src.
